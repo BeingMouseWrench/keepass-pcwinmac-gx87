@@ -1,4 +1,4 @@
-# 
+# 官方 KeePass 扩展 Mac OS版 | 精英 KeePass 扩展 PC Windows版。集成 紧急访问 和 入侵检测，跨平台性能最大化。
 
 
 
